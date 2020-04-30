@@ -1,2 +1,2 @@
-# advance
-advance
+# Members-Elite
+Members Elite Discord Bot :))
